@@ -1,8 +1,4 @@
-// export default  interface Todo  {
-//     id: string,
-//     text: string,
 
-// };
 
 class Todo {
     id:string;
